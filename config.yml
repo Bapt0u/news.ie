@@ -1,0 +1,13 @@
+baseURL: "http://b11e.net/blog"
+theme: PaperMod
+title: Journey to Ireland
+paginate: 5
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
