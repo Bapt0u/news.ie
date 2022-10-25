@@ -1,13 +1,28 @@
 baseURL: "https://bapt0u.github.io/news.ie"
 theme: PaperMod
 title: Journey to Ireland
-paginate: 5
+# paginate: 5
+# enableInlineShortcodes: true
+# enableRobotsTXT: true
+# buildDrafts: false
+# buildFuture: false
+# buildExpired: false
+# pygmentsUseClasses: true
 
-enableInlineShortcodes: true
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-enableEmoji: true
-pygmentsUseClasses: true
+params:
+  enableEmoji: true
+  author: Bapt0u
+  showReadingTime: true
+  defaultTheme: auto
+  showtoc: true
+  homeInfoParams:
+    Title: Hello mate wave! 
+    Content: Bapt0u blog about anything and everything during my journey to Ireland.
 
+  socialIcons:
+    - name: Github
+      url: github.com/Bapt0u
+    - name: Youtube
+      url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    - name: Recursive social media
+      url: https://Bapt0u.github.io/news.ie
