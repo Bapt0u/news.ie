@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://bapt0u.github.io/news.ie/sitemap.xml
