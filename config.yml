@@ -1,6 +1,6 @@
 baseURL: "https://bapt0u.github.io/news.ie"
 theme: PaperMod
-title: Journey to Ireland
+title: The Guiness journey
 # paginate: 5
 # enableInlineShortcodes: true
 # enableRobotsTXT: true
@@ -16,13 +16,13 @@ params:
   defaultTheme: auto
   showtoc: true
   homeInfoParams:
-    Title: Hello mate wave! 
-    Content: Bapt0u blog about anything and everything during my journey to Ireland.
+    Title: \'Morning mate :alien:! 
+    Content: You will find here some Irish related stuff.
 
   socialIcons:
     - name: Github
-      url: github.com/Bapt0u
+      url: https://github.com/Bapt0u
     - name: Youtube
       url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-    - name: Recursive social media
+    - name: This blog (Just in case)
       url: https://Bapt0u.github.io/news.ie
