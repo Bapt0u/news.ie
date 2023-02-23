@@ -16,7 +16,7 @@ params:
   defaultTheme: auto
   showtoc: true
   homeInfoParams:
-    Title: \'Morning mate :alien:! 
+    Title: "'Morning mate :alien:"
     Content: You will find here some Irish related stuff.
 
   socialIcons:

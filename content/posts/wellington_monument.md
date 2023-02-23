@@ -5,8 +5,8 @@ draft: false
 ---
 # Wellington Monument
 
-The Wellington Monument is an obelisk located in the Phoenix Park, the largest park of Dublin.
-{{ $image := resources.Get "images/obelisk.jpg" }}
+The Wellington Monument is an obelisk located in the Phoenix Park, the largest park of Dublin.  
+![Picture of Wellington monument](/images/obelisk.jpg)
 
 ## History
 
@@ -14,7 +14,7 @@ The Wellington Testimonial (it's other name) was built to commemorate the victor
 The obelisk was designed by the architect Sir Robert Smirke and the foundation stone was laid in 1817. In 1820, the project ran out of construction funds and the structure remained unfinished until 18 June 1861 when it was opened to the public. There were also plans for a statue of Wellington on horseback, but a shortage of funds ruled that out.  
 The inscription on it reads: 
 
-> Asia and Europe, saved by thee, proclaim
-> Invincible in war thy deathless name,
-> Now round thy brow the civic oak we twine
-> That every earthly glory may be thine.
+> Asia and Europe, saved by thee, proclaim  
+> Invincible in war thy deathless name,  
+> Now round thy brow the civic oak we twine  
+> That every earthly glory may be thine.  
