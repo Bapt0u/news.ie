@@ -1,22 +1,15 @@
 baseURL: "https://bapt0u.github.io/news.ie"
 theme: PaperMod
 title: The Guiness journey
-# paginate: 5
-# enableInlineShortcodes: true
-# enableRobotsTXT: true
-# buildDrafts: false
-# buildFuture: false
-# buildExpired: false
-# pygmentsUseClasses: true
+enableEmoji: true
 
 params:
-  enableEmoji: true
   author: Bapt0u
   showReadingTime: true
   defaultTheme: auto
   showtoc: true
   homeInfoParams:
-    Title: "'Morning mate :alien:"
+    Title: \'Morning mate 👾
     Content: You will find here some Irish related stuff.
 
   socialIcons:
